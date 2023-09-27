@@ -42,3 +42,7 @@ This program is written in C++ and does not have external dependencies.
 # Contributions
 
 Contributions and improvements to this calendar program are welcome. Feel free to fork this repository, make changes, and create pull requests.
+
+# License 
+
+Copyright 2023 Jender
